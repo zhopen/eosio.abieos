@@ -1,1 +1,0 @@
-/usr/local/bin/c++ -O3 -DNDEBUG CMakeFiles/test_abieos_template.dir/src/template_test.cpp.o CMakeFiles/test_abieos_template.dir/src/abieos.cpp.o -o test_abieos_template  libabieos.a -lpthread 

@@ -1,1 +1,0 @@
-/usr/local/bin/c++ -fPIC -O3 -DNDEBUG -shared  -o libabieos.so CMakeFiles/abieos_module.dir/src/abieos.cpp.o CMakeFiles/abieos_module.dir/src/abi.cpp.o CMakeFiles/abieos_module.dir/src/crypto.cpp.o CMakeFiles/abieos_module.dir/include/eosio/fpconv.c.o  -lpthread 

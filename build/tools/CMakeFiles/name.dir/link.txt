@@ -1,1 +1,0 @@
-/usr/local/bin/c++ -O3 -DNDEBUG CMakeFiles/name.dir/name.cpp.o -o name  ../libabieos.a -lpthread 
